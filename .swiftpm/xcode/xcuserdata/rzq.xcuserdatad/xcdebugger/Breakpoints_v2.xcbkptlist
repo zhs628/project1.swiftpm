@@ -1,0 +1,3068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E4125B64-0218-4BAE-8D72-DC02B428CA7F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "848C4FF1-8CE7-43DE-A2B6-9C39663B31EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBD6E2BB-3127-4C80-B701-4277208AB9DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComponentsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "EBD6E2BB-3127-4C80-B701-4277208AB9DC - fee9055fb00805f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for componentsViewDictionary"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/ComponentsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "EBD6E2BB-3127-4C80-B701-4277208AB9DC - fee9055fb00805f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for componentsViewDictionary"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/ComponentsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "EBD6E2BB-3127-4C80-B701-4277208AB9DC - fee9055fb00805f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for componentsViewDictionary"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/ComponentsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "741C3AE8-B36A-4603-8FCF-AD2930FB268C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "586"
+            endingLineNumber = "586"
+            landmarkName = "pairingNeighborPart(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF43135F-C46E-4448-AD14-9E9FA4CEB1B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "585"
+            endingLineNumber = "585"
+            landmarkName = "pairingNeighborPart(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC57B5B4-3BAD-4863-A554-8889562DC45C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "442"
+            endingLineNumber = "442"
+            landmarkName = "makeComponent(componentType:x:y:rotate:isMirror:neighborComponentList:projectCore:scene:isFixed:onAnimating:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC57B5B4-3BAD-4863-A554-8889562DC45C - 480ce60f04c39117"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.description.getter : Swift.String"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "274"
+                  endingLineNumber = "274"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "AC57B5B4-3BAD-4863-A554-8889562DC45C - cc3bb03d821cdbcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;project1.ComponentOutputPart&gt;) -&gt; Swift.Optional&lt;project1.Component&gt; in project1.Component.description.getter : Swift.String"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "274"
+                  endingLineNumber = "274"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D642B8A2-10ED-408C-A8D3-934C6C9C3221"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "673"
+            endingLineNumber = "673"
+            landmarkName = "onInput(isActiveSignal:notifyingInput:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D642B8A2-10ED-408C-A8D3-934C6C9C3221 - a8ff209832aef7ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.onInput(isActiveSignal: Swift.Bool, notifyingInput: project1.ComponentInputPart) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "524"
+                  endingLineNumber = "524"
+                  offsetFromSymbolStart = "2012">
+               </Location>
+               <Location
+                  uuid = "D642B8A2-10ED-408C-A8D3-934C6C9C3221 - a8ff209832aef7ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.onInput(isActiveSignal: Swift.Bool, notifyingInput: project1.ComponentInputPart) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "524"
+                  endingLineNumber = "524"
+                  offsetFromSymbolStart = "1988">
+               </Location>
+               <Location
+                  uuid = "D642B8A2-10ED-408C-A8D3-934C6C9C3221 - a8ff209832aef764"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.onInput(isActiveSignal: Swift.Bool, notifyingInput: project1.ComponentInputPart) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "530"
+                  endingLineNumber = "530"
+                  offsetFromSymbolStart = "1988">
+               </Location>
+               <Location
+                  uuid = "D642B8A2-10ED-408C-A8D3-934C6C9C3221 - a8ff209832aee9ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.onInput(isActiveSignal: Swift.Bool, notifyingInput: project1.ComponentInputPart) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "604"
+                  endingLineNumber = "604"
+                  offsetFromSymbolStart = "2012">
+               </Location>
+               <Location
+                  uuid = "D642B8A2-10ED-408C-A8D3-934C6C9C3221 - a8ff209832aee9ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.onInput(isActiveSignal: Swift.Bool, notifyingInput: project1.ComponentInputPart) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "604"
+                  endingLineNumber = "604"
+                  offsetFromSymbolStart = "1988">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C33E35FE-49AE-4889-8ECE-624556DD17B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "681"
+            endingLineNumber = "681"
+            landmarkName = "onInput(isActiveSignal:notifyingInput:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C33E35FE-49AE-4889-8ECE-624556DD17B0 - a8ff209832aef081"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.onInput(isActiveSignal: Swift.Bool, notifyingInput: project1.ComponentInputPart) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "533"
+                  endingLineNumber = "533"
+                  offsetFromSymbolStart = "3076">
+               </Location>
+               <Location
+                  uuid = "C33E35FE-49AE-4889-8ECE-624556DD17B0 - a8ff209832aef081"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.onInput(isActiveSignal: Swift.Bool, notifyingInput: project1.ComponentInputPart) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "533"
+                  endingLineNumber = "533"
+                  offsetFromSymbolStart = "2684">
+               </Location>
+               <Location
+                  uuid = "C33E35FE-49AE-4889-8ECE-624556DD17B0 - a8ff209832aef04b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.onInput(isActiveSignal: Swift.Bool, notifyingInput: project1.ComponentInputPart) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "539"
+                  endingLineNumber = "539"
+                  offsetFromSymbolStart = "2760">
+               </Location>
+               <Location
+                  uuid = "C33E35FE-49AE-4889-8ECE-624556DD17B0 - a8ff209832aeea31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.onInput(isActiveSignal: Swift.Bool, notifyingInput: project1.ComponentInputPart) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "613"
+                  endingLineNumber = "613"
+                  offsetFromSymbolStart = "3152">
+               </Location>
+               <Location
+                  uuid = "C33E35FE-49AE-4889-8ECE-624556DD17B0 - a8ff209832aeea31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.onInput(isActiveSignal: Swift.Bool, notifyingInput: project1.ComponentInputPart) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "613"
+                  endingLineNumber = "613"
+                  offsetFromSymbolStart = "2760">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5387A7EA-4585-4FD9-BDBA-D4CC8884F2EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/PowerSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "onStart(isActivate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A140857-ED0C-4CB5-81EB-B59DAFF41E87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "maxDepth"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "745B25CE-4ACB-434E-AF74-1CA5CFCE6D35"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "maxDepth"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DD1A5CC-5D00-4943-B285-7C3BEA1F31F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "maxDepth"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "024BCD68-B169-4AB1-960D-AC5EB0585834"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "maxDepth"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCC2C0C3-87E1-4B3F-8155-9BD9777439F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "248"
+            endingLineNumber = "248"
+            landmarkName = "update(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2352E62A-4867-4CA1-990B-ECBE0BBB5B34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/PowerSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "onStart(isActivate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "478852F4-3EA3-4BB9-A1DF-292A47EBCFDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/PowerSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "onStart(isActivate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEDA98DA-3931-4ECB-BA53-3294BD5D6EE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "262"
+            endingLineNumber = "262"
+            landmarkName = "update(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8870577D-0EC3-4AF4-89FF-1C811BE83A28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "739"
+            endingLineNumber = "739"
+            landmarkName = "spin90()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C58FCB0-E205-43BE-A7E2-E1D2C6E982FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "touchesBegan(_:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C526AA7-5C5D-443A-AC6F-77381390CDC3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "touchesBegan(_:with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0C526AA7-5C5D-443A-AC6F-77381390CDC3 - 1d68e5978a6698ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.touchesBegan(_: Swift.Set&lt;__C.UITouch&gt;, with: Swift.Optional&lt;__C.UIEvent&gt;) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "2632">
+               </Location>
+               <Location
+                  uuid = "0C526AA7-5C5D-443A-AC6F-77381390CDC3 - 1d68e5978a66988c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.touchesBegan(_: Swift.Set&lt;__C.UITouch&gt;, with: Swift.Optional&lt;__C.UIEvent&gt;) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "2456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92678C4F-582A-4EF4-9B33-0DBBD6742CA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+            landmarkName = "update(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "92678C4F-582A-4EF4-9B33-0DBBD6742CA4 - 4cb0866c14701746"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.update(Swift.Double) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "209"
+                  endingLineNumber = "209"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "92678C4F-582A-4EF4-9B33-0DBBD6742CA4 - 4cb0866c147011d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.update(Swift.Double) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "92678C4F-582A-4EF4-9B33-0DBBD6742CA4 - c25243e7e7b0491c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.setup(to: __C.SKView) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "3568">
+               </Location>
+               <Location
+                  uuid = "92678C4F-582A-4EF4-9B33-0DBBD6742CA4 - 4cb0866c147016bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.update(Swift.Double) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "220"
+                  endingLineNumber = "220"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEE2B9A0-8076-49C8-B5E8-F564C5C9FE41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "755"
+            endingLineNumber = "755"
+            landmarkName = "mirrorX()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B65A7B51-8A22-451F-8258-FBB5D14500D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Bridge.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getOutputPartsActivation(inputPartsActivation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2CBAB34-0307-42BE-82D9-D80C87A150EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Bridge.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getOutputPartsActivation(inputPartsActivation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAABD8FF-2699-44B6-AFB7-16EE5669D782"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "onOutput(isActiveSignal:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82A443B9-91A6-43F2-8F00-DBCF3A7FC203"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "onOutput(isActiveSignal:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB87A424-286D-478F-9EC1-864389D3C61E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "639"
+            endingLineNumber = "639"
+            landmarkName = "pairingNeighborPart(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "520B9445-2790-4530-8980-AF7378A22DA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "631"
+            endingLineNumber = "631"
+            landmarkName = "pairingNeighborPart(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C44AB393-7063-411F-9968-508FD4803317"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "636"
+            endingLineNumber = "636"
+            landmarkName = "pairingNeighborPart(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37E19F62-E7FE-4576-835F-81B158B64623"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "769"
+            endingLineNumber = "769"
+            landmarkName = "getOutputPart(side:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "37E19F62-E7FE-4576-835F-81B158B64623 - ffb77e1546c0a623"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.getOutputPart(side: project1.Sides) -&gt; Swift.Optional&lt;project1.ComponentOutputPart&gt;"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "866"
+                  endingLineNumber = "866"
+                  offsetFromSymbolStart = "1248">
+               </Location>
+               <Location
+                  uuid = "37E19F62-E7FE-4576-835F-81B158B64623 - ffb77e1546c0a623"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.getOutputPart(side: project1.Sides) -&gt; Swift.Optional&lt;project1.ComponentOutputPart&gt;"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "866"
+                  endingLineNumber = "866"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "37E19F62-E7FE-4576-835F-81B158B64623 - ffb77e1546c0485c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.getOutputPart(side: project1.Sides) -&gt; Swift.Optional&lt;project1.ComponentOutputPart&gt;"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "635"
+                  endingLineNumber = "635"
+                  offsetFromSymbolStart = "504">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DB746C0-F0B0-49DA-929F-11BA9F0AFF8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tools.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "312"
+            endingLineNumber = "312"
+            landmarkName = "rotateArray(_:by:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95F627D7-DA4B-415E-B956-6C0AE95B2EDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "308"
+            endingLineNumber = "308"
+            landmarkName = "showStatute(depthForSignalPathNode:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85EF8931-DBF7-46C6-8B79-D5FFF0099D5D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "359"
+            endingLineNumber = "359"
+            landmarkName = "initShowStatute()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFA9A91A-9012-4B2D-944D-78FB4F48DDB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "startTicket()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AFA9A91A-9012-4B2D-944D-78FB4F48DDB1 - 375dabe576a85d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; Swift.Array&lt;project1.SignalPathNode&gt;"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "AFA9A91A-9012-4B2D-944D-78FB4F48DDB1 - 375dabe576a85d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; Swift.Array&lt;project1.SignalPathNode&gt;"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "AFA9A91A-9012-4B2D-944D-78FB4F48DDB1 - 7411f12328de6dc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "AFA9A91A-9012-4B2D-944D-78FB4F48DDB1 - 9aab3e2633b0d788"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; Swift.Int"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "AFA9A91A-9012-4B2D-944D-78FB4F48DDB1 - 9aab3e2633b0d788"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; Swift.Int"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "AFA9A91A-9012-4B2D-944D-78FB4F48DDB1 - 9aab3e2633b0d53e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; Swift.Int"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "AFA9A91A-9012-4B2D-944D-78FB4F48DDB1 - 9aab3e2633b0d53e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; Swift.Int"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "AFA9A91A-9012-4B2D-944D-78FB4F48DDB1 - 9aab3e2633b0d53e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; Swift.Int"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA656C96-7E16-4570-9FBA-81BEFA72D25B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "698"
+            endingLineNumber = "698"
+            landmarkName = "onRepeatInput(isActiveSignal:notifyingInput:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA656C96-7E16-4570-9FBA-81BEFA72D25B - 843f781e1c46582d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.onRepeatInput(isActiveSignal: Swift.Bool, notifyingInput: project1.ComponentInputPart) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "591"
+                  endingLineNumber = "591"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "CA656C96-7E16-4570-9FBA-81BEFA72D25B - 843f781e1c465812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.onRepeatInput(isActiveSignal: Swift.Bool, notifyingInput: project1.ComponentInputPart) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "590"
+                  endingLineNumber = "590"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB2D8D5D-B036-40FE-907E-3812213184D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "904"
+            endingLineNumber = "904"
+            landmarkName = "getErrorAction(speedFactor:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB2D8D5D-B036-40FE-907E-3812213184D1 - a249c430d370ee61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.getErrorAction(speedFactor: Swift.Double) -&gt; __C.SKAction"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "802"
+                  endingLineNumber = "802"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "EB2D8D5D-B036-40FE-907E-3812213184D1 - a249c430d370ee40"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.getErrorAction(speedFactor: Swift.Double) -&gt; __C.SKAction"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "801"
+                  endingLineNumber = "801"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D04A8273-8CE3-42D7-BA73-6ED49AF5401D"
+            shouldBeEnabled = "No"
+            condition = "self.t == 3"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
+            landmarkName = "startTicket()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D04A8273-8CE3-42D7-BA73-6ED49AF5401D - 375dabe576a8e92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; Swift.Array&lt;project1.SignalPathNode&gt;"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "1852">
+               </Location>
+               <Location
+                  uuid = "D04A8273-8CE3-42D7-BA73-6ED49AF5401D - 7411f12328de614e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "1852">
+               </Location>
+               <Location
+                  uuid = "D04A8273-8CE3-42D7-BA73-6ED49AF5401D - 9aab3e2633b0e34d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; Swift.Int"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "201"
+                  endingLineNumber = "201"
+                  offsetFromSymbolStart = "3240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FD75C00-3EAE-4016-A07A-BCB73DAB081D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "312"
+            endingLineNumber = "312"
+            landmarkName = "showStatute(depthForSignalPathNode:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0FD75C00-3EAE-4016-A07A-BCB73DAB081D - 678c438ab3bdc317"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.showStatute(depthForSignalPathNode: Swift.Int) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  uuid = "0FD75C00-3EAE-4016-A07A-BCB73DAB081D - 678c438ab3bdc317"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.showStatute(depthForSignalPathNode: Swift.Int) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "0FD75C00-3EAE-4016-A07A-BCB73DAB081D - d0d1830fa4754389"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.showStatute(depthForSignalPathNode: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E961F485-412B-479E-8676-D71E428A6AFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "224"
+            endingLineNumber = "224"
+            landmarkName = "update(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70123E95-4431-4B83-A4E9-88BF63634065"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "925"
+            endingLineNumber = "925"
+            landmarkName = "getErrorAction(speedFactor:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70123E95-4431-4B83-A4E9-88BF63634065 - a249c430d370f0cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.getErrorAction(speedFactor: Swift.Double) -&gt; __C.SKAction"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "813"
+                  endingLineNumber = "813"
+                  offsetFromSymbolStart = "2592">
+               </Location>
+               <Location
+                  uuid = "70123E95-4431-4B83-A4E9-88BF63634065 - a249c430d370f0cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.getErrorAction(speedFactor: Swift.Double) -&gt; __C.SKAction"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "813"
+                  endingLineNumber = "813"
+                  offsetFromSymbolStart = "2596">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DEADBF0-00BE-4764-9402-B34F29579ECB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Wire.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getOutputPartsActivation(inputPartsActivation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42215C73-50B9-4F31-ADC2-D4126068F847"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "350"
+            endingLineNumber = "350"
+            landmarkName = "initShowStatute()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CE87398-718C-4875-AAD9-830BAC662A25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Basics.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "685"
+            endingLineNumber = "685"
+            landmarkName = "onInput(isActiveSignal:notifyingInput:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0CE87398-718C-4875-AAD9-830BAC662A25 - a8ff209832aeef66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.onInput(isActiveSignal: Swift.Bool, notifyingInput: project1.ComponentInputPart) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "592"
+                  endingLineNumber = "592"
+                  offsetFromSymbolStart = "3356">
+               </Location>
+               <Location
+                  uuid = "0CE87398-718C-4875-AAD9-830BAC662A25 - a8ff209832aeef07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Component.onInput(isActiveSignal: Swift.Bool, notifyingInput: project1.ComponentInputPart) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/Basics.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "591"
+                  endingLineNumber = "591"
+                  offsetFromSymbolStart = "3356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5378554C-C7C3-49EE-84A2-497C26E24850"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "update(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC02E9C8-CCA7-4FBA-BA67-26B2AD479A83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "234"
+            endingLineNumber = "234"
+            landmarkName = "startTicket()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2179B10-7B9D-425B-A2F4-3FD62D6C136F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkBenchView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "425"
+            endingLineNumber = "425"
+            landmarkName = "ComponentsPanel"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "792C7D2B-B23C-4812-BCA8-A7A30B525A4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "316"
+            endingLineNumber = "316"
+            landmarkName = "showStatute(depthForSignalPathNode:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EE8C422-1904-436D-A8C1-E669E8794122"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "307"
+            endingLineNumber = "307"
+            landmarkName = "showStatute(depthForSignalPathNode:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DCFF24D-8AB2-4EFF-A5F6-85D6921D3533"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "325"
+            endingLineNumber = "325"
+            landmarkName = "onRunning()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34B38D4A-CC46-49ED-98CB-FE6B7879814F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "345"
+            endingLineNumber = "345"
+            landmarkName = "onRunning()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "34B38D4A-CC46-49ED-98CB-FE6B7879814F - 6ab1ea82bd9b23a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.onRunning() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "294"
+                  endingLineNumber = "294"
+                  offsetFromSymbolStart = "1984">
+               </Location>
+               <Location
+                  uuid = "34B38D4A-CC46-49ED-98CB-FE6B7879814F - 6ab1ea82bd9b23a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.onRunning() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "294"
+                  endingLineNumber = "294"
+                  offsetFromSymbolStart = "2340">
+               </Location>
+               <Location
+                  uuid = "34B38D4A-CC46-49ED-98CB-FE6B7879814F - 6ab1ea82bd9b23a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.onRunning() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "294"
+                  endingLineNumber = "294"
+                  offsetFromSymbolStart = "2236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2943082-15AC-4236-9D90-998AA88A1097"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkBenchView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "833"
+            endingLineNumber = "833"
+            landmarkName = "color"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80880148-1D7A-40EC-A6D8-9AE651145770"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkBenchView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "836"
+            endingLineNumber = "836"
+            landmarkName = "color"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44522564-5576-4DD2-9169-FD600185459C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "startTicket()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEA408BD-BD62-4A0C-8372-3E6270D9C19E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "373"
+            endingLineNumber = "373"
+            landmarkName = "onTickStart()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B998FDBD-3985-40E1-93A6-9FB0F79140FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "349"
+            endingLineNumber = "349"
+            landmarkName = "onRunning()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B998FDBD-3985-40E1-93A6-9FB0F79140FD - 6ab1ea82bd9b2198"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.onRunning() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "311"
+                  endingLineNumber = "311"
+                  offsetFromSymbolStart = "1832">
+               </Location>
+               <Location
+                  uuid = "B998FDBD-3985-40E1-93A6-9FB0F79140FD - 6ab1ea82bd9b2198"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.onRunning() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "311"
+                  endingLineNumber = "311"
+                  offsetFromSymbolStart = "2360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80E585D5-6CB8-4530-B510-ECC7D0BEDCD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
+            landmarkName = "startTicket()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "80E585D5-6CB8-4530-B510-ECC7D0BEDCD9 - 9aab3e2633b0ea19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; Swift.Int"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "253"
+                  endingLineNumber = "253"
+                  offsetFromSymbolStart = "5128">
+               </Location>
+               <Location
+                  uuid = "80E585D5-6CB8-4530-B510-ECC7D0BEDCD9 - 9aab3e2633b0ea19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; Swift.Int"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "253"
+                  endingLineNumber = "253"
+                  offsetFromSymbolStart = "5224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E326519D-CDE7-4F44-AFA1-473D56B417A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "293"
+            endingLineNumber = "293"
+            landmarkName = "startTicket()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83DCBDCF-BD67-4E85-AD7B-329F25186B87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "348"
+            endingLineNumber = "348"
+            landmarkName = "initShowStatute()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00F4BCDC-5C09-4716-B7E3-2FAABAD29BF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "startTicket()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF76C6C3-2555-4F2A-AD26-3A6528E6ECAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Delayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "activedImageName"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27F1CF57-F9BC-48E9-9DC2-5EEF944A9CFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/Delayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "imageName"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F69B5A5A-AF69-4780-955C-C45402D4F807"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
+            landmarkName = "startTicket()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F69B5A5A-AF69-4780-955C-C45402D4F807 - 9aab3e2633b0d892"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; Swift.Int"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "1428">
+               </Location>
+               <Location
+                  uuid = "F69B5A5A-AF69-4780-955C-C45402D4F807 - 9aab3e2633b0d8b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.startTicket() -&gt; Swift.Int"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "147"
+                  endingLineNumber = "147"
+                  offsetFromSymbolStart = "1428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3566BDD-2ABD-450B-B863-5C271805EFA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "337"
+            endingLineNumber = "337"
+            landmarkName = "showStatute(depthForSignalPathNode:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70A52A1D-3BC7-4508-A110-05270B36DB73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "startTicket()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "018B41AC-9549-4CE5-832A-E25AC9C6D17F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "startTicket()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF55BEC1-3631-46AC-A766-B5BD92575EBB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/BackdropEntities.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "makeEntity(scene:projectCore:entityClass:detectPos:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E386438-683E-4A5A-88E2-035174DF9DF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/BackdropEntities.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "changeTexture(imageIndex:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6E386438-683E-4A5A-88E2-035174DF9DF6 - 737f14632b8ffbc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.BackdropEntity.changeTexture(imageIndex: Swift.Int) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/BackdropEntities.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "748">
+               </Location>
+               <Location
+                  uuid = "6E386438-683E-4A5A-88E2-035174DF9DF6 - 737f14632b8ffbc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.BackdropEntity.changeTexture(imageIndex: Swift.Int) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/BackdropEntities.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "6E386438-683E-4A5A-88E2-035174DF9DF6 - 737f14632b8ffbea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.BackdropEntity.changeTexture(imageIndex: Swift.Int) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/BackdropEntities.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "604">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C128974-C9E7-4645-B9B1-B425D7DE1349"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/BackdropEntities.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "changeTexture(imageIndex:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FACBCBA-C1C1-4E0B-AB07-8A5030A1D77D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/BackdropEntities.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "attachToBlock(x:y:offsetX:offsetY:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3FACBCBA-C1C1-4E0B-AB07-8A5030A1D77D - 37a9cd698482ea46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.BackdropEntity.attachToBlock(x: Swift.Int, y: Swift.Int, offsetX: CoreGraphics.CGFloat, offsetY: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/BackdropEntities.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "3FACBCBA-C1C1-4E0B-AB07-8A5030A1D77D - 37a9cd698482ea67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.BackdropEntity.attachToBlock(x: Swift.Int, y: Swift.Int, offsetX: CoreGraphics.CGFloat, offsetY: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/BackdropEntities.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "3FACBCBA-C1C1-4E0B-AB07-8A5030A1D77D - 37a9cd698482ea67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.BackdropEntity.attachToBlock(x: Swift.Int, y: Swift.Int, offsetX: CoreGraphics.CGFloat, offsetY: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/BackdropEntities.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24205A54-B37E-4041-9139-278C8E8947F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tools.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "getFloatPos(x:y:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCF2B90B-22B5-465B-A715-19FB93E6A0D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/BackdropEntities.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "childInit()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BCF2B90B-22B5-465B-A715-19FB93E6A0D0 - 72514b8de9e25566"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Blob.childInit() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/BackdropEntities.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "BCF2B90B-22B5-465B-A715-19FB93E6A0D0 - 72514b8de9e25566"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.Blob.childInit() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/BackdropEntities.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE3EE997-E0E2-4F82-9B99-F3DDAAC3C8A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "405"
+            endingLineNumber = "405"
+            landmarkName = "removeComponent(x:y:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BE3EE997-E0E2-4F82-9B99-F3DDAAC3C8A8 - e1f645b328848f7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.removeComponent(x: Swift.Int, y: Swift.Int) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "391"
+                  endingLineNumber = "391"
+                  offsetFromSymbolStart = "708">
+               </Location>
+               <Location
+                  uuid = "BE3EE997-E0E2-4F82-9B99-F3DDAAC3C8A8 - e1f645b328848d62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.removeComponent(x: Swift.Int, y: Swift.Int) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "406"
+                  endingLineNumber = "406"
+                  offsetFromSymbolStart = "708">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F3E3F9E-061C-45CD-AE39-C29C0C2B640D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "394"
+            endingLineNumber = "394"
+            landmarkName = "removeComponent(x:y:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4F3E3F9E-061C-45CD-AE39-C29C0C2B640D - e1f645b328848e4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.removeComponent(x: Swift.Int, y: Swift.Int) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "382"
+                  endingLineNumber = "382"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "4F3E3F9E-061C-45CD-AE39-C29C0C2B640D - e1f645b328848c3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.removeComponent(x: Swift.Int, y: Swift.Int) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "397"
+                  endingLineNumber = "397"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCFBC89A-9BAA-45F0-937F-529E8737541E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorkBenchView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "640"
+            endingLineNumber = "640"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "728649CD-9537-45FC-B254-F991DB2573F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "261"
+            endingLineNumber = "261"
+            landmarkName = "update(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DE4321F-F413-415C-9AEC-EC06B115F901"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "248"
+            endingLineNumber = "248"
+            landmarkName = "update(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F650C28-AE14-4F50-9AAE-6B2564C6EF06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "480"
+            endingLineNumber = "480"
+            landmarkName = "selectComponent(x:y:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F650C28-AE14-4F50-9AAE-6B2564C6EF06 - 911e5a1d68c2b395"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.selectComponent(x: Swift.Int, y: Swift.Int) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "1F650C28-AE14-4F50-9AAE-6B2564C6EF06 - 911e5a1d68c2b395"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.selectComponent(x: Swift.Int, y: Swift.Int) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "1F650C28-AE14-4F50-9AAE-6B2564C6EF06 - 911e5a1d68c2b566"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.selectComponent(x: Swift.Int, y: Swift.Int) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "480"
+                  endingLineNumber = "480"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E2CA27B-411F-44F0-825C-FEEB5A51C72A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "456"
+            endingLineNumber = "456"
+            landmarkName = "getComponent(x:y:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E2CA27B-411F-44F0-825C-FEEB5A51C72A - 692b92c776519cdb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.getComponent(x: Swift.Int, y: Swift.Int) -&gt; Swift.Optional&lt;project1.Component&gt;"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "441"
+                  endingLineNumber = "441"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "4E2CA27B-411F-44F0-825C-FEEB5A51C72A - 692b92c776519ee8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.ProjectCore.getComponent(x: Swift.Int, y: Swift.Int) -&gt; Swift.Optional&lt;project1.Component&gt;"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/ProjectCore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "456"
+                  endingLineNumber = "456"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E9E0A58-4FC7-45FC-AFB7-4F9FF01C13D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "selectedComponent"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1F4C847-1F5B-4846-A177-23DA5DE3CD6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "selectedComponent"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E58DAC0D-0036-4B17-8A25-B341F8FEBEAB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "ProjectCore"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE9213DC-D788-42E1-8057-8A66E4E69997"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "setup(to:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE9213DC-D788-42E1-8057-8A66E4E69997 - c25243e7e7b0515c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.setup(to: __C.SKView) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "AE9213DC-D788-42E1-8057-8A66E4E69997 - c25243e7e7b0519e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.setup(to: __C.SKView) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "155"
+                  endingLineNumber = "155"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "AE9213DC-D788-42E1-8057-8A66E4E69997 - c25243e7e7b0515c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.setup(to: __C.SKView) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49BED64A-291A-4861-AEF7-9DE54E901D77"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "416"
+            endingLineNumber = "416"
+            landmarkName = "initLevel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "49BED64A-291A-4861-AEF7-9DE54E901D77 - b5ee851826bbb6fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "2548">
+               </Location>
+               <Location
+                  uuid = "49BED64A-291A-4861-AEF7-9DE54E901D77 - b5ee851826bbb6fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "2572">
+               </Location>
+               <Location
+                  uuid = "49BED64A-291A-4861-AEF7-9DE54E901D77 - b5ee851826bbb6fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "401"
+                  endingLineNumber = "401"
+                  offsetFromSymbolStart = "2592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A2F4620-401E-433D-A757-9C0B32BEBE26"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "selectedComponent"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79049337-A4E9-4210-8754-319C9AC5BB33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "selectedComponent"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAA16401-5B98-46E8-8BC0-423FAA6D03E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "495"
+            endingLineNumber = "495"
+            landmarkName = "makeScene(w:h:selectedId:gameStateMachine:popupWindowMsg:progressBarObj:levelPassedWindowObject:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F647886E-51A7-4D75-B301-888E803D4203"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "433"
+            endingLineNumber = "433"
+            landmarkName = "initLevel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F647886E-51A7-4D75-B301-888E803D4203 - c5d3459d6038fa6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "416"
+                  endingLineNumber = "416"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "F647886E-51A7-4D75-B301-888E803D4203 - b5ee851826bbb10d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "416"
+                  endingLineNumber = "416"
+                  offsetFromSymbolStart = "3968">
+               </Location>
+               <Location
+                  uuid = "F647886E-51A7-4D75-B301-888E803D4203 - c5d3459d6038fb8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "417"
+                  endingLineNumber = "417"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9B1BC64-9F27-47F5-9EDA-F9FCC41CE0F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/ProjectCore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "ProjectCore"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE12A9D3-59E7-4857-9C53-58FC503D7E7C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "430"
+            endingLineNumber = "430"
+            landmarkName = "initLevel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EE12A9D3-59E7-4857-9C53-58FC503D7E7C - b5ee851826bbb14f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "414"
+                  endingLineNumber = "414"
+                  offsetFromSymbolStart = "3912">
+               </Location>
+               <Location
+                  uuid = "EE12A9D3-59E7-4857-9C53-58FC503D7E7C - c5d3459d6038fa4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "415"
+                  endingLineNumber = "415"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "EE12A9D3-59E7-4857-9C53-58FC503D7E7C - b5ee851826bbb160"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "413"
+                  endingLineNumber = "413"
+                  offsetFromSymbolStart = "3612">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52280835-4F54-4BA6-A673-58CD2BF84945"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "431"
+            endingLineNumber = "431"
+            landmarkName = "initLevel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "52280835-4F54-4BA6-A673-58CD2BF84945 - b5ee851826bbb14f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "414"
+                  endingLineNumber = "414"
+                  offsetFromSymbolStart = "3912">
+               </Location>
+               <Location
+                  uuid = "52280835-4F54-4BA6-A673-58CD2BF84945 - c5d3459d6038fa4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Bool) -&gt; () in project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "415"
+                  endingLineNumber = "415"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "52280835-4F54-4BA6-A673-58CD2BF84945 - b5ee851826bbb14f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "414"
+                  endingLineNumber = "414"
+                  offsetFromSymbolStart = "3840">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1959B62-8BCE-4FFC-98E4-ABE76704F6D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "424"
+            endingLineNumber = "424"
+            landmarkName = "initLevel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1959B62-8BCE-4FFC-98E4-ABE76704F6D2 - b5ee851826bbb1e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "409"
+                  endingLineNumber = "409"
+                  offsetFromSymbolStart = "3372">
+               </Location>
+               <Location
+                  uuid = "A1959B62-8BCE-4FFC-98E4-ABE76704F6D2 - b5ee851826bbb1e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "409"
+                  endingLineNumber = "409"
+                  offsetFromSymbolStart = "3420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD11804B-76B6-4381-A78C-11A30734C1F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/BackgroundManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "initEntities()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AECB310-1CAF-4BED-AEB8-66265AE0AEA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/BackdropEntities.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "248"
+            endingLineNumber = "248"
+            landmarkName = "initToTickStart()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3AECB310-1CAF-4BED-AEB8-66265AE0AEA3 - caf960f02b611ae6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.LandScapeTrafficLight.onPowerOutletAnimating(isActiveList: Swift.Array&lt;Swift.Optional&lt;Swift.Bool&gt;&gt;) -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/BackdropEntities.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "243"
+                  endingLineNumber = "243"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "3AECB310-1CAF-4BED-AEB8-66265AE0AEA3 - 51bafff8ab17f1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.LandScapeTrafficLight.initToTickStart() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/BackdropEntities.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "244"
+                  endingLineNumber = "244"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "3AECB310-1CAF-4BED-AEB8-66265AE0AEA3 - 51bafff8ab17f1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.LandScapeTrafficLight.initToTickStart() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/GameCore/BackdropEntities.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "244"
+                  endingLineNumber = "244"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5991BA38-D3EF-4A96-A7F7-56A1C95C677F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GameCore/BackgroundManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "initEntities()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9029F77-4471-4A46-BE85-45F4AD006AC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "common.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "264"
+            endingLineNumber = "264"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "A9029F77-4471-4A46-BE85-45F4AD006AC1 - 6f202fd203898bcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for PANNEL_COLOR"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/common.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "258"
+                  endingLineNumber = "258"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "A9029F77-4471-4A46-BE85-45F4AD006AC1 - 5c70140e5444d96d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.PANNEL_COLOR.unsafeMutableAddressor : SwiftUI.Color"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/common.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "258"
+                  endingLineNumber = "258"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8771E005-2D7C-4126-8B2E-CC45DDE51B4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "378"
+            endingLineNumber = "378"
+            landmarkName = "initLevel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23F906F2-54D1-40A0-A0BB-5FEB4DEC8032"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FloatingScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "459"
+            endingLineNumber = "459"
+            landmarkName = "onLevelPassed()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23F906F2-54D1-40A0-A0BB-5FEB4DEC8032 - b5ee851826bbaf72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.initLevel() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "459"
+                  endingLineNumber = "459"
+                  offsetFromSymbolStart = "4844">
+               </Location>
+               <Location
+                  uuid = "23F906F2-54D1-40A0-A0BB-5FEB4DEC8032 - 1abdec2bf9988ae1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.onLevelPassed() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "459"
+                  endingLineNumber = "459"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "23F906F2-54D1-40A0-A0BB-5FEB4DEC8032 - 1abdec2bf9988ae1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "project1.FloatingScene.onLevelPassed() -&gt; ()"
+                  moduleName = "project1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rzq/Documents/my_code/swift/project1.swiftpm/FloatingScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "459"
+                  endingLineNumber = "459"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
